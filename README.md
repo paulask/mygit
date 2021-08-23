@@ -1,0 +1,2 @@
+# mygit
+just another repository
